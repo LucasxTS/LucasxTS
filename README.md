@@ -3,7 +3,6 @@
 
 - 👋 Hi, I’m @Lucas Eduardo 
 - 🌱 I’m learning android development...
-- 📫 The biggest fan of the souls like series in the world
 - RUKASU!
 
 <!---
