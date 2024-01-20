@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Lucas Eduardo 
 - 🌱 I’m learning android development...
-- RUKASU!
+
 
 <!---
 LucasxTS/LucasxTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
